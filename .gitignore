@@ -1,0 +1,7 @@
+Env
+*.session
+__pycache__
+.pytest_cache
+build
+dist
+walletthon.egg-info

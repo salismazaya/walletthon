@@ -1,0 +1,10 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.5
+pyaes==1.6.1
+pyasn1==0.5.1
+requests==2.31.0
+rsa==4.9
+Telethon==1.32.1
+typing_extensions==4.8.0
+urllib3==2.1.0
